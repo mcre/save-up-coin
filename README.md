@@ -32,9 +32,6 @@ pip install -t ~/Desktop/python/ pybitflyer
 zip -r pybitflyer.zip python/
 ```
 
-* https://github.com/yagays/pybitflyer からリポジトリをzipでダウンロード
-* 解凍し、中のpybitflyerフォルダの名前を`python`に変更し、フォルダを圧縮。
-
 * Lambda -> レイヤーの作成
     - 名前
         - pybitflyer
