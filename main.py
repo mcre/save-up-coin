@@ -63,7 +63,7 @@ def order(api, prices, task, dev):
     })
 
     if not dev:
-        ret['response'] = api.sendchildorder(product_code='ETH_JPY', child_order_type='MARKET', side='BUY', size=amount)
+        ret['response'] = api.sendchildorder(product_code=task['product_code'], child_order_type='MARKET', side='BUY', size=amount)
         if 'child_order_acceptance_id' in ret['response']:
             ret['success'] = True
     else:
