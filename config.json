@@ -1,0 +1,9 @@
+{
+    "tz": "Asia/Tokyo",
+    "tasks": [
+        {
+            "product_code": "ETH_JPY",
+            "amount_jpy": 200
+        }
+    ]
+}

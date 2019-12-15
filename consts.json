@@ -1,0 +1,24 @@
+{
+    "markets": {
+        "BTC_JPY": {
+            "base_currency": "BTC",
+            "quote_currency": "JPY",
+            "minimum_order_size": 0.001,
+            "unit_of_size": 0.00000001
+        },
+        "ETH_JPY": {
+            "base_currency": "ETH",
+            "quote_currency": "JPY",
+            "minimum_order_size": 0.01,
+            "unit_of_size": 0.0000001
+        },
+        "ETH_BTC": {
+            "base_currency": "ETH",
+            "quote_currency": "BTC"
+        },
+        "BCH_BTC": {
+            "base_currency": "BCH",
+            "quote_currency": "BTC"
+        }
+    }
+}
