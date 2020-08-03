@@ -3,7 +3,7 @@
     "tasks": [
         {
             "product_code": "ETH_JPY",
-            "amount_jpy": 300
+            "amount_jpy": 500
         }
     ]
 }
