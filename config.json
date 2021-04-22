@@ -2,8 +2,16 @@
     "tz": "Asia/Tokyo",
     "tasks": [
         {
-            "product_code": "ETH_JPY",
-            "amount_jpy": 1500
+            "product_code": "XRP_JPY",
+            "amount_jpy": 100
+        },
+        {
+            "product_code": "MONA_JPY",
+            "amount_jpy": 100
+        },
+        {
+            "product_code": "XLM_JPY",
+            "amount_jpy": 100
         }
     ]
 }

@@ -12,6 +12,24 @@
             "minimum_order_size": 0.01,
             "unit_of_size": 0.0000001
         },
+        "XRP_JPY": {
+            "base_currency": "XRP",
+            "quote_currency": "JPY",
+            "minimum_order_size": 0.1,
+            "unit_of_size": 0.000001
+        },
+        "XLM_JPY": {
+            "base_currency": "XLM",
+            "quote_currency": "JPY",
+            "minimum_order_size": 0.1,
+            "unit_of_size": 0.0000001
+        },
+        "MONA_JPY": {
+            "base_currency": "MONA",
+            "quote_currency": "JPY",
+            "minimum_order_size": 0.1,
+            "unit_of_size": 0.00000001
+        },
         "ETH_BTC": {
             "base_currency": "ETH",
             "quote_currency": "BTC"
